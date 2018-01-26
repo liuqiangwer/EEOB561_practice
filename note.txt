@@ -1,0 +1,23 @@
+Rule 1: Begin with the end in mind
+		e.g.: phylogenetics: R
+		Use the languages your lab member use most often
+		Go with open source software if you want to make biggest impact
+
+Rule 2: Baby steps are steps
+		Break the task into small pieces, like start with downloading files and put
+		them in directories
+Rule 3: Immersion is the best learning tool
+		Stick with one language, like cmd, is going to save you time in long run
+Rule 4: Phone a friend
+		Look for resources on line, ask for lab mate etc. Data carpentry
+Rule 5: Learn how to ask questions
+		Google error message is a good start
+Rule 6: Don't reinvent the wheel
+		No shame to use the tools have already been developed
+Rule 7: Develop good habits early on
+		Keep a record of dry lab! Like those for wet lab
+Rule 8: Practice makes perfect
+		Create a small dummy dataset and test the pipeline with it, before work on the actual dataset
+Rule 9: ?
+Rule 10: Just do it
+
